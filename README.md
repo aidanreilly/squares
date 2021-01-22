@@ -2,7 +2,7 @@
 
 A simple square wave drone synth with 16 independant square waves. Each voice is made of two square waves slighty detuned from each other. Each square wave pulsewidth can be modified. Sample rate and bit depth can be changed for each voice.
 
-![sines](squares.png)
+![squares](squares.png)
 
 ## Installation
 
