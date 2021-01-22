@@ -1,4 +1,4 @@
-# Sines
+# Squares
 
 A simple square wave drone synth with 16 independant square waves. Each voice is made of two square waves slighty detuned from each other. Each square wave pulsewidth can be modified. Sample rate and bit depth can be changed for each voice.
 
@@ -6,7 +6,9 @@ A simple square wave drone synth with 16 independant square waves. Each voice is
 
 ## Installation
 
-Ensure you are up to date with the latest norns OS. Visit http://norns.local/ in a browser, and install sines from the maiden project manager.
+Ensure you are up to date with the latest norns OS. Visit http://norns.local/ in a browser, and install squares by entering the following in the maiden REPL: 
+
+`;install https://github.com/aidanreilly/squares`
 
 Then, `SYSTEM => RESET` on norns to pick up the new SuperCollider engine. Reboot for good measure.
 
